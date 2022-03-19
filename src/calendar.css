@@ -1,0 +1,37 @@
+.responsive-calendar {
+    font-size: 9.5px !important; /* default to 10px */
+    z-index: 0 !important;
+    
+  }
+  
+
+  @media (max-width: 1500px) {
+    .responsive-calendar {
+      font-size: 8.5px !important;
+    }
+  }
+  
+  @media (max-width: 1200px) {
+    .responsive-calendar {
+      font-size: 7.5px !important;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .responsive-calendar {
+      font-size: 8.2px !important;
+    }
+  }
+
+  @media (max-width: 400px) {
+    .responsive-calendar {
+      font-size: 6.8px !important;
+    }
+  }
+  
+  /* Large screens */
+  @media (min-width: 2500px) {
+    .responsive-calendar {
+      font-size: 12px !important;
+    }
+  }
