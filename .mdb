@@ -1,0 +1,8 @@
+{
+  "projectName": "NassApp",
+  "meta": {
+    "type": "frontend"
+  },
+  "packageManager": "npm",
+  "hash": "3487d3a9"
+}

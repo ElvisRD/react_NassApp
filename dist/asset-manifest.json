@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.67be3b90.css",
-    "main.js": "/static/js/main.2a31c203.js",
+    "main.js": "/static/js/main.6335beb3.js",
     "static/media/marte.jpg": "/static/media/marte.874d24245b2a0e125dec.jpg",
     "static/media/portada.jpg": "/static/media/portada.5dc9ec39da4362cabb2b.jpg",
     "static/media/tierra.jpg": "/static/media/tierra.c0e3ac4fa3b1258152ba.jpg",
     "static/media/asteroide.jpg": "/static/media/asteroide.342cce6a07e537bc2f54.jpg",
     "index.html": "/index.html",
     "main.67be3b90.css.map": "/static/css/main.67be3b90.css.map",
-    "main.2a31c203.js.map": "/static/js/main.2a31c203.js.map"
+    "main.6335beb3.js.map": "/static/js/main.6335beb3.js.map"
   },
   "entrypoints": [
     "static/css/main.67be3b90.css",
-    "static/js/main.2a31c203.js"
+    "static/js/main.6335beb3.js"
   ]
 }
